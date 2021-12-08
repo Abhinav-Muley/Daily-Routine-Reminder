@@ -1,3 +1,7 @@
+"""
+author : Abhinav Muley
+"""
+
 from pygame import mixer
 import time
 from time import localtime, strftime
