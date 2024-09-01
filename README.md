@@ -1,5 +1,7 @@
 # Daily_Routine_Reminder
 
+Overview: -
+
 This Python application helps you stay on track with your daily tasks by reminding you to perform scheduled activities such as drinking water, working out, or any other tasks you set. It plays a reminder sound at specified intervals, ensuring that you never miss an important activity throughout your day.
 
 
